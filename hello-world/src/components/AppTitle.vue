@@ -18,6 +18,13 @@ h1
 @keyframes pulse{
 0% {
     color: yellow;
+}
+25%{
+    color: green;
+    
+}
+50%{
+    color: lightblue;
     
 }
 100%{color: red;}}
